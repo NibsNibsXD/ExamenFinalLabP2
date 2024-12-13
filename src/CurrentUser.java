@@ -1,4 +1,10 @@
 
+
+//MIEMBROS DEL GRUPO
+//JORGE, JAFET Y FERNANDO
+//EXAMEN FINAL LAB P2
+
+
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.NoSuchElementException;
